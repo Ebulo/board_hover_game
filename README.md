@@ -1,2 +1,2 @@
-# board_hover_game
+# Board Hover Game
 Hover over the board to see great effects, on the screen. Click and drag on the screen to create your own design. This is just a HTML, CSS, JS template.
